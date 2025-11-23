@@ -106,8 +106,10 @@ A complete traffic lane and vehicle flow management system
 ---
 
 ## 📫 Hit me up  
-💌 Email: **aksharadurai.25@gmail.com**  
-💼 LinkedIn: **inkedin.com/in/akshara2506**  
-🐙 GitHub: **github.com/Akshara0506**
+
+💌 Email: **[aksharadurai.25@gmail.com](mailto:aksharadurai.25@gmail.com)**  
+💼 LinkedIn: **[linkedin.com/in/akshara2506](https://linkedin.com/in/akshara2506)**  
+🐙 GitHub: **[github.com/Akshara0506](https://github.com/Akshara0506)**  
+
 
 ✨ *Be kind. Build cool things. Break stereotypes.*  
