@@ -47,36 +47,39 @@ Let’s build cool stuff, break stereotypes, and make tech a little more magical
 
 ---
 
-## 🚀 My Coolest Projects (for real)
+## 🚀 ## 🔥 Featured Projects
 
-### 🔥 PHISHGUARD AI  
-AI that catches phishing before you fall for it 💀  
-BERT + TF-IDF + real-time URL scanner   
-
----
-
-### 🎵 COGNISYNC – AI Music Therapy  
-AI-generated beats that help stroke & Parkinson’s patients heal 💫  
-Tone.js + HF + Flask + dashboards  
-
+### **🚦 Traffic Management System (C + PostgreSQL)**  
+A complete traffic lane and vehicle flow management system  
+- Linked lists + BST searching  
+- Priority-based sorting  
+- CSV + DB integration  
+:contentReference[oaicite:1]{index=1}  
 
 ---
 
-### 🚦 Traffic System in C  
-Yes, I wrote a whole traffic control system w/ linked lists + BST 😎  
-DB + CSV + algorithms + chaos → ORDER  
- 
+### **📊 Traffic Accident Analysis & Prediction (Python)**  
+- Logistic Regression, Random Forest, SVM  
+- Time-series forecasting  
+- Advanced visualizations and dashboards  
+:contentReference[oaicite:2]{index=2}  
 
 ---
 
-### 📊 Accident Prediction System  
-ML, forecasting, dashboards, vibes 🤌  
- 
+### **🛡 PHISHGUARD AI – Intelligent Phishing Detection**  
+- Hybrid TF-IDF + BERT pipeline  
+- Real-time URL scanning  
+- Anomaly detection dashboard  
+:contentReference[oaicite:3]{index=3}  
 
 ---
 
-### 💬 Mental Health AI Chatbot  
-Your AI bestie + mood tracking + explainable ML ✨  
+### **🧠 COGNISYNC – GenAI Music Therapy for Neuro-Rehab**  
+- Adaptive therapy rhythms (Tone.js + HF API)  
+- Flask backend + Progress dashboards  
+- AI-powered support for stroke & Parkinson’s patients  
+:contentReference[oaicite:4]{index=4}  
+
 
 ---
 
