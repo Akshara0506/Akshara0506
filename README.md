@@ -9,7 +9,7 @@
 ---
 
 ## 💁‍♀️ About Me  
-Heyyy! I'm Akshara, an AI + Data Science enthusiast currently pursuing my M.Sc. in Decision and Computing Sciences at Coimbatore Institute of Technology 🎓💙
+Heyyy! I'm Akshara, an AI and Data Science enthusiast currently pursuing my M.Sc. in Decision and Computing Sciences at Coimbatore Institute of Technology 🎓💙
 
 I’m the kind of person who loves mixing logic, creativity, and a little bit of chaos to build things that actually matter. Whether it's ML models that predict accidents, AI that blocks phishing attacks, or a music-therapy system for stroke patients — I love creating tech that feels smart, human, and meaningful.
 
