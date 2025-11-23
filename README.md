@@ -82,7 +82,7 @@ A complete traffic lane and vehicle flow management system
 - AI-powered support for stroke & Parkinson’s patients 
 ---
 
-## 🏆 Flex Zone (Achievements)  
+## 🏆Achievements  
 🥇 Winner – IIT Madras Data Science Hackathon  
 🏆 Winner – Digi-Markathon  
 🔥 Finalist – Hackademia (BLR)  
