@@ -1,6 +1,6 @@
 
 
-<h1 align="center">✨ Heyyyy, I'm <b>Akshara</b> /h1>
+<h1 align="center">✨ Heyyyy, I'm <b>Akshara</b> </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F52894&size=28&duration=2800&center=true&vCenter=true&width=600&lines=AI+Engineer+in+the+Making+%F0%9F%94%A5;Data+Science+%F0%9F%92%BB;Building+Cool+Stuff+with+ML+%F0%9F%A4%96;Cognitive+Computing+Nerd+%F0%9F%A7%AA;Let's+Code+Something+Crazy+%F0%9F%9A%80" />
