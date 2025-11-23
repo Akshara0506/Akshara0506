@@ -99,11 +99,16 @@ Let’s build cool stuff, break stereotypes, and make tech a little more magical
 ---
 
 ### ⚡ Other Interests
-![MPI](https://img.shields.io/badge/MPI-Parallel_Computing-blue?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-0E6F4B?style=for-the-badge&logo=datadog&logoColor=white)
-![AI Ethics](https://img.shields.io/badge/AI%20Ethics-8D6E63?style=for-the-badge)
-![Cognitive Science](https://img.shields.io/badge/Cognitive%20Science-5E3A2F?style=for-the-badge)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-512DA8?style=for-the-badge&logo=figma&logoColor=white)
+![Cognitive Tech](https://img.shields.io/badge/Cognitive%20Technology-6D4C41?style=for-the-badge&logo=brain&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-4E342E?style=for-the-badge&logo=hackaday&logoColor=white)
+![NeuroTech](https://img.shields.io/badge/NeuroTech-5D4037?style=for-the-badge&logo=mediatemple&logoColor=white)
+![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-8D6E63?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI-XAI-brown?style=for-the-badge)
+![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-795548?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Human–AI Interaction](https://img.shields.io/badge/Human--AI%20Interaction-3E2723?style=for-the-badge)
+![Hackathons](https://img.shields.io/badge/Hackathons-6F4E37?style=for-the-badge&logo=googleforms&logoColor=white)
+![Community Leadership](https://img.shields.io/badge/Community%20Leadership-5C4033?style=for-the-badge&logo=googlegroups&logoColor=white)
+
 
 
 ---
