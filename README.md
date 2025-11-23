@@ -53,10 +53,10 @@ Let’s build cool stuff, break stereotypes, and make tech a little more magical
 
 ### **🚦 Traffic Management System (C + PostgreSQL)**  
 A complete traffic lane and vehicle flow management system  
-- Linked lists + BST searching  
+- Linked lists and BST searching  
 - Priority-based sorting  
-- CSV + DB integration  
-:contentReference[oaicite:1]{index=1}  
+- CSV with DB integration  
+  
 
 ---
 
@@ -64,15 +64,15 @@ A complete traffic lane and vehicle flow management system
 - Logistic Regression, Random Forest, SVM  
 - Time-series forecasting  
 - Advanced visualizations and dashboards  
-:contentReference[oaicite:2]{index=2}  
+
 
 ---
 
 ### **🛡 PHISHGUARD AI – Intelligent Phishing Detection**  
-- Hybrid TF-IDF + BERT pipeline  
+- Hybrid TF-IDF and BERT pipeline  
 - Real-time URL scanning  
 - Anomaly detection dashboard  
-:contentReference[oaicite:3]{index=3}  
+
 
 ---
 
@@ -88,7 +88,7 @@ A complete traffic lane and vehicle flow management system
 🔥 Finalist – Hackademia (BLR)  
 🚀 Finalist – Buildathon (OpenAI × NxtWave)  
 🌟 Finalist – Spark Grant Seed Fund  
-:contentReference[oaicite:10]{index=10}  
+
 
 ---
 
@@ -107,7 +107,7 @@ A complete traffic lane and vehicle flow management system
 
 ## 📫 Hit me up  
 💌 Email: **aksharadurai.25@gmail.com**  
-💼 LinkedIn: **akshara2506**  
-🐙 GitHub: **Akshara0506**
+💼 LinkedIn: **inkedin.com/in/akshara2506**  
+🐙 GitHub: **github.com/Akshara0506**
 
 ✨ *Be kind. Build cool things. Break stereotypes.*  
